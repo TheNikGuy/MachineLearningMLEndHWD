@@ -1,4 +1,4 @@
-# MachineLearningMLEndHWD
+# Machine Learning - MLEnd Hums and Whistles Dataset
 
 This projects involves classification tasks on MLEnd Hums and Whistles database which is now publicly available @ https://www.kaggle.com/datasets/jesusrequena/mlend-hums-and-whistles
 
